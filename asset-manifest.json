@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_shop_Markin_Kozlov_Kudinov/static/css/main.7d0a9147.css",
+    "main.js": "/React_shop_Markin_Kozlov_Kudinov/static/js/main.fe6b3ee0.js",
+    "index.html": "/React_shop_Markin_Kozlov_Kudinov/index.html",
+    "main.7d0a9147.css.map": "/React_shop_Markin_Kozlov_Kudinov/static/css/main.7d0a9147.css.map",
+    "main.fe6b3ee0.js.map": "/React_shop_Markin_Kozlov_Kudinov/static/js/main.fe6b3ee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0a9147.css",
+    "static/js/main.fe6b3ee0.js"
+  ]
+}
